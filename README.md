@@ -1,5 +1,19 @@
 # ICE Task 4 - Weather Dashboard UI
 
+Student Name: Lesedi Hlasa
+
+Student Number: ST10512679
+
+Module Name: Mobile App Scripting
+
+Module Code: MAST5112
+
+Lecture Name: Sookha Jessel
+
+
+
+
+
 ## Introduction
 The Weather Dashboard is a React Native mobile app written in TypeScript that lets users view detailed weather conditions for different cities including Johannesburg, Cape Town, and Durban. The app features current weather metrics, a 24-hour hourly forecast, a 5-day daily forecast, and sun and moon information.
 
@@ -65,7 +79,12 @@ The corrected app was tested on the BlueStacks 5 emulator:
 6. Overall UI: Scrolled through the full dashboard to verify smooth scrolling and clean spacing.
 
 ## Screenshot
-![Weather Dashboard Screenshot](./screenshot.png)
+
+<img width="1408" height="768" alt="IMG_4511" src="https://github.com/user-attachments/assets/56066bd8-fc3d-41ae-82d3-6cc1ff5130d3" />
+
+<img width="1408" height="768" alt="IMG_4512" src="https://github.com/user-attachments/assets/5b261c58-2518-401c-b714-2dcca50cd34c" />
+
+<img width="1408" height="768" alt="IMG_4513" src="https://github.com/user-attachments/assets/1ddccbd2-38f6-4396-84ea-ced1c771bba4" />
 
 ## Conclusion
 Debugging the Weather Dashboard highlighted how important accurate state mapping, flexbox direction properties, and proper prop rendering are in React Native. Fixing these layout and logic bugs resulted in a responsive, easy-to-use mobile dashboard interface.
